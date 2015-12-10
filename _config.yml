@@ -1,7 +1,7 @@
 name: OverTheLoom
 favicon: null
-layout_spectrum: 0.7433378181885928
-typography_spectrum: 0.9779785834252834
+layout_spectrum: 0.61013
+typography_spectrum: 0.89862
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#4badac'
+    - '#d37f74'
+    - '#e0a7a0'
+    - '#a8d4d3'
   brandStrength: 0.5856122588738799
   lightness: 0.9744892658200115
   saturation: 0.9698000948410481
