@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OverTheLoom]]></title>
+        <description><![CDATA[OverTheLoom]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 08:06:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Over The Loom]]></title>
+            <description><![CDATA[<article><h1>Over The Loom</h1><p>Over The Loom is your ultimate online destination for stylish girl's clothing and dresses. We focus on kids clothing from independent designers that offer a unique twist to the regular children's clothing. Details is what sets our items apart. Your child will sure be noticed when they are wearing an signature piece from Over The Loom.</p></article>]]></description>
+            <link>undefinedover-the-loom/index.html</link>
+            <guid isPermaLink="false">b809835b-c7f1-454a-ae86-7355c5de53bb</guid>
+            <pubDate>Thu, 10 Dec 2015 08:06:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
